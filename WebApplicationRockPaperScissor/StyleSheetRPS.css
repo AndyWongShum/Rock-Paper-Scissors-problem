@@ -1,0 +1,22 @@
+﻿body {
+     margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
+}
+
+.centered {
+    margin: 0 auto;
+    text-align: left;
+    width: 800px;
+}
+
+.imaged {
+    background:url(bg_apple_little.gif) no-repeat center center;
+height:200px;
+width:200px;
+}
+
